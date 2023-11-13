@@ -16,7 +16,7 @@
                             <i class="fa fa-laptop"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Front-End Developer at IoT-ra Lab Makerere <small>Year: 2022- upto date</small></h3>
+                            <h3 class="media-heading">Front-End and back_end Developer at IoT-ra Lab Makerere <small>Year: 2022- upto date</small></h3>
                             <p class="color-white">Collaborated with designers to transform wireframes and mockups into responsive and visually appealing websites. Implemented cutting-edge technologies to enhance user experience.</p>
                         </div>
                     </div>
@@ -29,24 +29,7 @@
                             <p class="color-white">Collaborated with cross-functional teams to create intuitive user interfaces and seamless user experiences. Translated complex ideas into visually compelling designs.</p>
                         </div>
                     </div>
-                    <div class="wow fadeInUp color-white media" data-wow-delay="1.6s">
-                        <div class="media-object media-left">
-                            <i class="fa fa-laptop"></i>
-                        </div>
-                        <div class="media-body">
-                            <h3 class="media-heading">App Developer at IoT-ra Lab Makere <small>Year: 2022 - upto date</small></h3>
-                            <p class="color-white">Collaborated with cross-functional teams to create intuitive user interfaces and seamless user experiences. Translated complex ideas into visually compelling designs.</p>
-                        </div>
-                    </div>
-                    <div class="wow fadeInUp color-white media" data-wow-delay="1.6s">
-                        <div class="media-object media-left">
-                            <i class="fa fa-laptop"></i>
-                        </div>
-                        <div class="media-body">
-                            <h3 class="media-heading">Graphic Designer<small>Year: 2022 - upto date</small></h3>
-                            <p class="color-white">Collaborated with cross-functional teams to create intuitive user interfaces and seamless user experiences. Translated complex ideas into visually compelling designs.</p>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>

@@ -17,6 +17,5 @@ Route::get('/', function () {
     return view('index');
 });
 
-
-
-
+Route::post('/store_message', 'App\Http\Controllers\store_message@store_message');
+Route::view('/contact','contact');

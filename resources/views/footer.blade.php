@@ -7,10 +7,7 @@
                 </div>
                 <ul class="wow fadeInUp social-icon" data-wow-delay="2s">
                     <li><a href="https://www.facebook.com/nantege.leticia" class="fa fa-facebook"></a></li>
-                    <li><a href="" class="fa fa-twitter"></a></li>
-                    <li><a href="#" class="fa fa-google-plus"></a></li>
-                    <li><a href="#" class="fa fa-dribbble"></a></li>
-                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                    <li><a href="https://www.linkedin.com/in/leticia-nantege-844765219/" class="fa fa-linkedin"></a></li>
                 </ul>
             </div>
         </div>

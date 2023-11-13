@@ -5,12 +5,12 @@
                 <div class="contact-form">
                     <div class="wow fadeInUp section-title" data-wow-delay="0.2s">
                         <h1 class="color-white">Say hello..</h1>
-                        <p class="color-white">Integer ut consectetur est. In cursus orci non ipsum gravida dignissim.</p>
                     </div>
                     <div id="contact-form">
-                        <form action="#template-mo" method="post">
+                    <form id="message" action="/store_message" method="POST" enctype="multipart/form-data">
+                    @csrf
                             <div class="wow fadeInUp" data-wow-delay="1s">
-                                <input name="fullname" type="text" class="form-control" id="fullname" placeholder="Your Name">
+                                <input name="name" type="text" class="form-control" id="name" placeholder="Your Name">
                             </div>
                             <div class="wow fadeInUp" data-wow-delay="1.2s">
                                 <input name="email" type="email" class="form-control" id="email" placeholder="Your Email">
@@ -31,8 +31,8 @@
             <div class="bg-dark col-md-3 col-sm-6">
                 <div class="contact-thumb">
                     <div class="wow fadeInUp contact-info" data-wow-delay="0.6s">
-                        <h3 class="color-white">Visit my office</h3>
-                        <p>IoT-ra Lab Makerere University</p>
+                        <h3 class="color-white">Address</h3>
+                        <p>Kampala Uganda</p>
                     </div>
                     <div class="wow fadeInUp contact-info" data-wow-delay="0.8s">
                         <h3 class="color-white">Contact.</h3>

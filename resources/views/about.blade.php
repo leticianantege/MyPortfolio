@@ -22,15 +22,11 @@
                 <div class="skill-thumb">
                     <div class="wow fadeInUp section-title color-white" data-wow-delay="1.2s">
                         <h1>My Skills</h1>
-                        <p class="color-white">Front-End Development | UI/UX Design | Grapic designing | Application development</p>
+                        <p class="color-white">Front-End Development| backend development| UI/UX Design </p>
                     </div>
                     <div class="wow fadeInUp skills-thumb" data-wow-delay="1.6s">
-                        <strong>HTML, CSS, JavaScript</strong>
+                        <strong>HTML, CSS, JavaScript, laravel</strong>
                         <span class="color-white pull-right">95%</span>
-                        <strong>Graphic designing</strong>
-                        <span class="color-white pull-right">95%</span>
-                        <strong>application development</strong>
-                        <span class="color-white pull-right">70%</span>
                         <strong>UI/UX, figma</strong>
                         <span class="color-white pull-right">80%</span>
                     
