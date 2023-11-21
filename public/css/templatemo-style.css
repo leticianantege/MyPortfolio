@@ -144,7 +144,7 @@ footer {
 
 #experience,
 #education {
-  background: #E9724C;
+  background: #e99d4c;
 }
 
 .background-image {
@@ -383,7 +383,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+    background: url('../images/leti2-img.jpg') no-repeat;
 }
 
 #about .about-thumb,
@@ -440,7 +440,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+  background: url('../images/leti1-img.jpg') no-repeat;
 }
 
 #experience .media-heading {

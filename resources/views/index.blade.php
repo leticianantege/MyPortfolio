@@ -40,13 +40,14 @@
 
 @include('about')
 
-<!-- Service Section -->
-
-@include('service')
 
 <!-- Experience Section -->
 
 @include('experience')
+
+<!-- projects Section -->
+
+@include('projects')
 
 <!-- Education Section -->
 
